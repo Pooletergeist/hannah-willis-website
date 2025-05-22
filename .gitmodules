@@ -1,0 +1,9 @@
+[submodule "seagull"]
+	path = themes/seagull
+	url = https://git.42l.fr/HugoTrentesaux/seagull.git
+[submodule "grayscale"]
+	path = themes/grayscale
+	url = https://github.com/mattimustang/zola-grayscale.git
+[submodule "themes/zola-grayscale"]
+	path = themes/zola-grayscale
+	url = https://github.com/mattimustang/zola-grayscale

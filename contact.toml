@@ -1,0 +1,21 @@
+[[contact]]
+name = "Address"
+address = "Right behind you"
+icon = "fa-map-marked-alt"
+[[contact]]
+name = "Email"
+address = """<a href="#!">hello@yourdomain.com</a>"""
+icon = "fa-envelope"
+[[contact]]
+name = "Phone"
+address = "dont call me"
+icon = "fa-mobile-alt"
+[[social]]
+icon = "fa-mastodon"
+url = "#!"
+[[social]]
+icon = "fa-facebook-f"
+url = "#!"
+[[social]]
+icon = "fa-github"
+url = "https://github.com/mattimustang/zola-grayscale"
