@@ -3,7 +3,7 @@ base_url = "https://example.com"
 theme = "zola-grayscale"
 title = "Willis Gardening"
 description = "The finest purveyor of yellow beans in the Edmonton River Valley"
-author = ""
+author = "Rumpelstiltskin is my name"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
