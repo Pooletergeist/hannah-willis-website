@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://rock-gardening.pages.dev"
 theme = "zola-grayscale"
 title = "Willis Gardening"
 description = "The finest purveyor of yellow beans in the Edmonton River Valley"
